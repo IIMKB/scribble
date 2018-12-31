@@ -30,3 +30,5 @@ A Jekyll theme. [Demo :point_left:](http://scribble.muan.co/posts/scribble-the-j
 
 Like it? [Tell me](http://twitter.com/muanchiou).<br/>
 Problem? [Use GitHub Issues](https://github.com/muan/scribble).
+
+push 要push到gh-pages中，不是master！！！
